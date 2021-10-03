@@ -6,6 +6,7 @@ import Navigation from '../src/components/Navigation/Navigation'
 import Footer from './components/Footer/Footer';
 import Courses from './components/Courses/Courses';
 import CourseDetail from './components/CourseDetail/CourseDetail';
+import EnrollForm from './components/EnrollForm/EnrollForm';
 
 
 function App() {
@@ -22,6 +23,9 @@ function App() {
           </Route>
           <Route path='/course/:id'>
             <CourseDetail></CourseDetail>
+          </Route>
+          <Route path='/enroll'>
+            <EnrollForm></EnrollForm>
           </Route>
         </Switch>
         <Footer></Footer>

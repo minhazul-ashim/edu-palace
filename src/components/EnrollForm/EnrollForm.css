@@ -1,0 +1,13 @@
+.enroll-bg {
+
+    background: url('../../images/guy-working.jpg');
+    background-size: cover;
+    height: 100vh;
+    background-position-y: 100%;
+}
+
+.enroll-overlay {
+
+    background: rgba(0, 0, 0, 0.747);
+    
+}

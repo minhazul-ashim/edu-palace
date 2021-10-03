@@ -13,6 +13,11 @@ const CourseDetail = () => {
         history.push('/courses')
     }
 
+    const handleEnrollment = () => {
+
+        history.push('/enroll')
+    }
+
     if (!course) {
         return <h1 className='text-center'>
             Loading
@@ -43,7 +48,7 @@ const CourseDetail = () => {
 
                     </Card.Body>
                     <Card.Footer className='d-flex justify-content-between'>
-                        <button className='btn btn-danger'>Enroll</button>
+                        <button onClick={handleEnrollment} className='btn btn-danger'>Enroll</button>
                         <button onClick={handleViewAll} className='btn btn-info'>View others</button>
                     </Card.Footer>
                 </Card>
