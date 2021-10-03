@@ -4,8 +4,13 @@ import './CourseBox.css'
 
 const CourseBox = (props) => {
 
-    const { course, fee, img } = props.course;
-    console.log(props.course)
+    const { id, course, fee, img } = props.course;
+
+
+    const handleDetail = () => {
+
+        console.log(id);
+    }
 
     return (
         <div className='col'>
@@ -18,7 +23,7 @@ const CourseBox = (props) => {
                     <Card.Text className='text-danger'>
                         Course fee: ${fee}
                     </Card.Text>
-                    <button className='btn btn-outline-info'>Details</button>
+                    <button onClick={handleDetail} className='btn btn-outline-info'>Details</button>
                 </Card.Body>
             </Card>
         </div >

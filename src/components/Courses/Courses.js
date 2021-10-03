@@ -1,6 +1,6 @@
 import './Courses.css'
 import React from 'react';
-import useCourses from '../../utilities/useCourses';
+import useCourses from '../../hooks/useCourses';
 import CourseBox from '../CourseBox/CourseBox';
 
 const Courses = () => {
