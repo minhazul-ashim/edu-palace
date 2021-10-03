@@ -1,5 +1,6 @@
 [
     {
+        "id": 44679,
         "course": "International English",
         "duration": "3 months",
         "fee": 500,
@@ -13,6 +14,7 @@
         "img": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c3R1ZGVudHN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
     },
     {
+        "id": 46679,
         "course": "Native German",
         "duration": "6 months",
         "fee": 1000,
@@ -26,6 +28,7 @@
         "img": "https://images.unsplash.com/photo-1618259278412-2819cbdea4dc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z2VybWFuJTIwZmxhZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
     },
     {
+        "id": 46879,
         "course": "Artistry Mastering",
         "duration": "2 months",
         "fee": 399,
@@ -40,6 +43,7 @@
         "img": "https://images.unsplash.com/photo-1510832842230-87253f48d74f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGFpbnRpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
     },
     {
+        "id": 45899,
         "course": "GRE Ace",
         "duration": "4 months",
         "fee": 749,
