@@ -8,6 +8,7 @@ import Courses from './components/Courses/Courses';
 import CourseDetail from './components/CourseDetail/CourseDetail';
 import EnrollForm from './components/EnrollForm/EnrollForm';
 import NotFound from './NotFound/NotFound';
+import AboutUs from './components/AboutUs/AboutUs';
 
 
 function App() {
@@ -30,6 +31,9 @@ function App() {
           </Route>
           <Route path='/enroll'>
             <EnrollForm></EnrollForm>
+          </Route>
+          <Route path='/about'>
+            <AboutUs></AboutUs>
           </Route>
           <Route path='*'>
             <NotFound></NotFound>
