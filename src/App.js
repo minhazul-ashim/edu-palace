@@ -5,6 +5,7 @@ import Home from '../src/components/Home/Home';
 import Navigation from '../src/components/Navigation/Navigation'
 import Footer from './components/Footer/Footer';
 import Courses from './components/Courses/Courses';
+import CourseDetail from './components/CourseDetail/CourseDetail';
 
 
 function App() {
@@ -18,6 +19,9 @@ function App() {
           </Route>
           <Route path='/courses'>
             <Courses></Courses>
+          </Route>
+          <Route path='/course/:id'>
+            <CourseDetail></CourseDetail>
           </Route>
         </Switch>
         <Footer></Footer>

@@ -1,15 +1,17 @@
 import React from 'react';
 import { Card } from 'react-bootstrap';
+import { useHistory } from 'react-router';
 import './CourseBox.css'
 
 const CourseBox = (props) => {
 
     const { id, course, fee, img } = props.course;
+    let history = useHistory()
 
 
     const handleDetail = () => {
 
-        console.log(id);
+        history.push(`course/${id}`)
     }
 
     return (

@@ -1,0 +1,60 @@
+[
+    {
+        "id": 44679,
+        "course": "International English",
+        "duration": "3 months",
+        "fee": 500,
+        "certification": "Included",
+        "vision": "Achieve English mastery and fluency in this journey through the English language. Each lesson is filled with examples.",
+        "features": [
+            "Learn English skills to easily handle a wide range of common situations",
+            "Master exercises to improve your habits and ability to think in English",
+            "Learn and practice the grammar necessary to sound natural and avoid mistakes"
+        ],
+        "img": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c3R1ZGVudHN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "id": 46679,
+        "course": "Native German",
+        "duration": "6 months",
+        "fee": 1000,
+        "certification": "Included",
+        "vision": "Achieve German mastery and fluency in this journey through the German language. Each lesson is filled with examples and extra practices.",
+        "features": [
+            "The #1 German Course. Start speaking real, grammatically correct German fluently, effortlessly and confidently today.",
+            "Improve your listening and German comprehension skills through ear training and visual learning thanks to the native German speaking teacher, interactive board, subtitles and included .pdf materials.",
+            "Be confident regarding your German skills (A1, A2, A2+ levels) by lots of practice after every lesson. Understand and use familiar everyday expressions."
+        ],
+        "img": "https://images.unsplash.com/photo-1618259278412-2819cbdea4dc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z2VybWFuJTIwZmxhZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "id": 46879,
+        "course": "Artistry Mastering",
+        "duration": "2 months",
+        "fee": 399,
+        "certification": "Included",
+        "vision": "Learn everything you need to know about Procreate with hands on drawing lessons. Now updated for Procreate 5.",
+        "features": [
+            "Users will have a deep understanding of Procreate",
+            "Create and import custom brushes",
+            "Create Speedraw videos they can post online",
+            "Have a basic understanding of how to compose and create a painting"
+        ],
+        "img": "https://images.unsplash.com/photo-1510832842230-87253f48d74f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGFpbnRpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "id": 45899,
+        "course": "GRE Ace",
+        "duration": "4 months",
+        "fee": 749,
+        "certification": "Included",
+        "vision": "GRE Type 531+ Solved Questions. GRE Prep Course Basics to Advanced Level. GRE Question Classification,Tricks &Techniques",
+        "features": [
+            "Quizzes to test your learning",
+            "Easily solve even difficult GRE questions from Inequalities, Absolute value,Percentages, Averages & Alligations,Speed & Time, Work & Rate, Numbers, Permutation",
+            "Methods that will help you score 330+ in GRE",
+            "Kickstart your GRE engine such that you build on knowledge rather than having a feeling of going nowhere."
+        ],
+        "img": "https://images.unsplash.com/photo-1590638302397-73c58ddba466?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNhJTIwZmxhZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
+    }
+]
