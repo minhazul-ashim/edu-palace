@@ -1,0 +1,22 @@
+.contact-bg {
+
+    background: url('../../images/city.jpg');
+    height: 100vh;
+}
+
+.contact-overlay {
+
+    background: rgba(0, 0, 0, 0.479);
+    height: 100%;
+}
+
+.icon {
+
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+.detail {
+
+    color: white;
+}
