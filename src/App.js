@@ -7,6 +7,7 @@ import Footer from './components/Footer/Footer';
 import Courses from './components/Courses/Courses';
 import CourseDetail from './components/CourseDetail/CourseDetail';
 import EnrollForm from './components/EnrollForm/EnrollForm';
+import NotFound from './NotFound/NotFound';
 
 
 function App() {
@@ -18,6 +19,9 @@ function App() {
           <Route path='/home'>
             <Home></Home>
           </Route>
+          <Route exact path='/'>
+            <Home></Home>
+          </Route>
           <Route path='/courses'>
             <Courses></Courses>
           </Route>
@@ -26,6 +30,9 @@ function App() {
           </Route>
           <Route path='/enroll'>
             <EnrollForm></EnrollForm>
+          </Route>
+          <Route path='*'>
+            <NotFound></NotFound>
           </Route>
         </Switch>
         <Footer></Footer>
