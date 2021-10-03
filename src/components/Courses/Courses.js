@@ -1,7 +1,6 @@
 import './Courses.css'
 import React from 'react';
 import useCourses from '../../utilities/useCourses';
-import { Row } from 'react-bootstrap';
 import CourseBox from '../CourseBox/CourseBox';
 
 const Courses = () => {
