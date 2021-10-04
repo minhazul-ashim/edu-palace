@@ -5,6 +5,7 @@ Livesite: https://edu-palace.netlify.app/
 => React Router
 => React Bootstrap
 => Plain Bootstrap
+=> React Font Awesome
 => Custom CSS for minor styling.
 
 Note: There are two subscription form for enrolling and sending message but they are now functional yet. /*
