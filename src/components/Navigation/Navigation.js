@@ -3,6 +3,8 @@ import './Navigation.css'
 import { Container, Nav, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
+//This component renders the navigation bar. React bootstrap Navbar component used here for the structure. The routes are navigated to their destination by using the 'Link' of react router dom; Codes are hard coded;
+
 const Navigation = () => {
     return (
         <div>

@@ -2,6 +2,8 @@ import { Card } from 'react-bootstrap';
 import { useHistory, useParams } from 'react-router';
 import useCourse from '../../hooks/useCourse';
 
+//This component uses two default hooks and one custom hook 'useCourse' from the 'hook' folder to get the specific course details and show information about the targetted courses;
+
 const CourseDetail = () => {
 
     const { id } = useParams();

@@ -2,6 +2,8 @@ import React from 'react';
 import useCourses from '../../hooks/useCourses';
 import CourseBox from '../CourseBox/CourseBox';
 
+//This component renders the all courses component in the UI. The state used here is the custom hook which is called from the 'hooks' folder.
+
 const AllCourses = () => {
 
     const [courses] = useCourses();

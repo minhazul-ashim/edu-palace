@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faLocationArrow, faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons'
 
 
-
+//This component renders the contact information page and route. No hooks used here but React font awesome package is used here for icons;
 
 const Contact = () => {
 

@@ -6,6 +6,9 @@ import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons'
 
+
+//This component renders the home courses component. Custom hook 'useCourses' is used to get all the courses and using slice method to show just the first four of them in the UI. One font awesome icon package has been used here;
+
 const Courses = () => {
 
     const [courses] = useCourses();

@@ -1,7 +1,9 @@
 import React from 'react';
 import { Card } from 'react-bootstrap';
 import { useHistory } from 'react-router';
-import './CourseBox.css'
+import './CourseBox.css';
+
+//This component renders all the individuals courses. This component receives props from the 'Courses' and 'All Courses' component which is used to show course information in the UI. Note: Dynamic Routing is used here;
 
 const CourseBox = (props) => {
 

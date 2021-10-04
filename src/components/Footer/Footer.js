@@ -1,5 +1,7 @@
 import React from 'react';
 
+//This component renders the footer;
+
 const Footer = () => {
     return (
         <div className='py-2 bg-dark text-center'>

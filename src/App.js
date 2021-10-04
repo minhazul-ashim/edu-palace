@@ -11,7 +11,7 @@ import AboutUs from './components/AboutUs/AboutUs';
 import Contact from './components/Contact/Contact';
 import AllCourses from './components/AllCourses/AllCourses';
 
-
+//App routes the whole website. The routes are set up in the navigation;
 
 function App() {
   return (

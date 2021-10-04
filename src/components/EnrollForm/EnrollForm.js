@@ -1,7 +1,10 @@
 import './EnrollForm.css'
 import React from 'react';
 
+//No functions or hooks has been used here. All the information are hard coded;
+
 const EnrollForm = () => {
+
     return (
         <div className='enroll-bg'>
             <div className="enroll-overlay h-100 mx-auto py-5">

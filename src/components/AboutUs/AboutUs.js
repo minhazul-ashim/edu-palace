@@ -2,6 +2,8 @@ import './AboutUs.css'
 import React from 'react';
 import img from '../../images/about-us.jpg'
 
+//This component renders the About route in the UI;
+
 const AboutUs = () => {
     return (
         <div className=''>

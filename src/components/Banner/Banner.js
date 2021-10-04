@@ -2,6 +2,8 @@ import React from 'react';
 import { useHistory } from 'react-router';
 import './Banner.css'
 
+//This is the component for rendering the banner in the home section. No custom hooks has been used here but the action button used the 'useHistory' hook to push route through the enrollment form;
+
 const Banner = () => {
 
     let history = useHistory();
