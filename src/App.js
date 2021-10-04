@@ -12,6 +12,7 @@ import Contact from './components/Contact/Contact';
 import AllCourses from './components/AllCourses/AllCourses';
 
 
+
 function App() {
   return (
     <div className="App">
