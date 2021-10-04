@@ -37,6 +37,8 @@ const CourseDetail = () => {
                             Certification: {course.certification}
                         </small>
                         <br />
+                        <small><strong>Vision: {course.vision}</strong></small>
+                        <br />
                         <small>Course Featured</small>
                         <ul>
                             {

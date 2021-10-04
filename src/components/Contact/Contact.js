@@ -15,8 +15,8 @@ const Contact = () => {
 
     return (
         <div className='contact-bg'>
-            <div className="contact-overlay p-5 row">
-                <div className="col p-5 d-flex flex-column justify-content-around">
+            <div className="contact-overlay p-5 row row-cols-1 row-cols-md-2">
+                <div className="col p-3 p-md-5 d-flex flex-column justify-content-around">
                     <div className='d-flex'>
                         <div className="icon me-3">
                             {location}
@@ -47,7 +47,7 @@ const Contact = () => {
 
                     </div>
                 </div>
-                <div className="col p-5 my-5">
+                <div className="col p-3 p-md-5 my-md-5">
                     <form action="">
                         <input className='form-control mb-2' type="text" placeholder='Your full name' />
                         <input className='form-control mb-2' type="email" placeholder='Email Address' />
