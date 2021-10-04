@@ -56,5 +56,62 @@
             "Kickstart your GRE engine such that you build on knowledge rather than having a feeling of going nowhere."
         ],
         "img": "https://images.unsplash.com/photo-1590638302397-73c58ddba466?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNhJTIwZmxhZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "id": 58945,
+        "course": "Guitar Lessons",
+        "duration": "1 month",
+        "fee": 149,
+        "certification": "N/A",
+        "vision": "All-in-one Guitar Course, Fingerstyle Guitar, Blues Guitar, Acoustic Guitar, Electric Guitar & Fingerpicking Guitarra",
+        "features": [
+            "New to Guitar? This Will be the Only Course You Will Ever Need to Take",
+            "Most Logical Step-by-step Method to Play Songs and Master Chords, Scales and Guitar Theory",
+            "Have You Playing the Guitar in the Shortest Amount of Time While Having the Most Fun",
+            "Exercises That Will Sharpen Your Chord Transitioning, Strumming, Fretting, Picking, and Fingerpicking"
+        ],
+        "img": "https://images.unsplash.com/photo-1525201548942-d8732f6617a0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Z3VpdGFyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "id": 58964,
+        "course": "Digital Marketing",
+        "duration": "2 month",
+        "fee": 99,
+        "certification": "N/A",
+        "vision": "Master Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email, Facebook Marketing, Analytics & More!",
+        "features": [
+            "Grow a Business Online From Scratch",
+            "Get Hired as a Digital Marketing Expert",
+            "Make Money as an Affiliate Marketer",
+            "Work From Home as a Freelance Marketer"
+        ],
+        "img": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWFya2V0aW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "id": 87954,
+        "course": "Graphics Designing",
+        "duration": "2 weeks",
+        "fee": 49,
+        "certification": "Included",
+        "vision": "The Ultimate Graphic Design Course Which Covers Photoshop, Illustrator, InDesign,Design Theory, Branding and Logo Design",
+        "features": [
+            "Have a deep understanding of typography, color theory, photos, layout, blocking and other design theory and skills",
+            "Create logos and branding packages for potential clients"
+        ],
+        "img": "https://images.unsplash.com/photo-1617777938240-9a1d8e51a47d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YWRvYmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+        "id": 98654,
+        "course": "Art of Break Dance",
+        "duration": "1 month",
+        "fee": 249,
+        "certification": "N/A",
+        "vision": "Breakdancing basics, including How to Groove, Toprock, Posture, Footwork, and Freeze!",
+        "features": [
+            "Break Dance - Complete Beginner's Guide",
+            "Learn basic dance moves and rhythms in breakdancing!",
+            "Think you have what it takes to break? Test your skills!"
+        ],
+        "img": "https://images.unsplash.com/photo-1609602726003-77a7bf096919?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YnJlYWslMjBkYW5jZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"
     }
 ]
