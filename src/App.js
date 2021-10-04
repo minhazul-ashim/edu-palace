@@ -4,7 +4,6 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from '../src/components/Home/Home';
 import Navigation from '../src/components/Navigation/Navigation'
 import Footer from './components/Footer/Footer';
-import Courses from './components/Courses/Courses';
 import CourseDetail from './components/CourseDetail/CourseDetail';
 import EnrollForm from './components/EnrollForm/EnrollForm';
 import NotFound from './NotFound/NotFound';
