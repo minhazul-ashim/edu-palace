@@ -10,6 +10,7 @@ import EnrollForm from './components/EnrollForm/EnrollForm';
 import NotFound from './NotFound/NotFound';
 import AboutUs from './components/AboutUs/AboutUs';
 import Contact from './components/Contact/Contact';
+import AllCourses from './components/AllCourses/AllCourses';
 
 
 function App() {
@@ -25,7 +26,7 @@ function App() {
             <Home></Home>
           </Route>
           <Route path='/courses'>
-            <Courses></Courses>
+            <AllCourses></AllCourses>
           </Route>
           <Route path='/course/:id'>
             <CourseDetail></CourseDetail>

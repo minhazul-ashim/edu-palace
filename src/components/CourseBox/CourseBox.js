@@ -16,7 +16,7 @@ const CourseBox = (props) => {
 
     return (
         <div className='col'>
-            <Card className='m-2'>
+            <Card className='m-2 shadow-lg'>
                 <Card.Body>
                     <div className="img-div">
                         <img className='img-fluid course-image' src={img} alt="" />

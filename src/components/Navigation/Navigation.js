@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 const Navigation = () => {
     return (
         <div>
-            <Navbar bg="light" expand="md">
+            <Navbar bg="primary" variant='dark' expand="md">
                 <Container>
                     <Navbar.Brand href="#home">Edu Palace</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />

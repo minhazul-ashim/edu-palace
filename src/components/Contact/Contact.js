@@ -52,7 +52,7 @@ const Contact = () => {
                         <input className='form-control mb-2' type="text" placeholder='Your full name' />
                         <input className='form-control mb-2' type="email" placeholder='Email Address' />
                         <small className='text-light'>Type your message</small>
-                        <textarea className='form-control mb-2' name="" id=""></textarea>
+                        <textarea className='form-control mb-2' name="" id="" rows='5'></textarea>
 
                         <button className='btn btn-info'>Send</button>
                     </form>
